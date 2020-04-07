@@ -418,110 +418,6 @@
 		</switch>
 	</tile>	
 	<tile> 
-		<name>Filler Top Left</name>
-		<id>32</id>
-		<texture>32</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Top Right</name>
-		<id>31</id>
-		<texture>31</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Bottom Left</name>
-		<id>30</id>
-		<texture>30</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Bottom Right</name>
-		<id>29</id>
-		<texture>29</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Top Left / Top Right</name>
-		<id>49</id>
-		<texture>49</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Top Right / Bottom Right</name>
-		<id>50</id>
-		<texture>50</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Bottom Left / Bottom Right</name>
-		<id>51</id>
-		<texture>51</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
-		<name>Filler Top Left / Bottom Left</name>
-		<id>52</id>
-		<texture>52</texture>
-		<exit>false</exit>
-		<gate>
-			<active>0</active>
-			<value>false</value>
-		</gate>
-		<switch>
-			<value>false</value>
-		</switch>
-	</tile>
-	<tile> 
 		<name>Full Square</name>
 		<id>33</id>
 		<texture>33</texture>
@@ -794,7 +690,123 @@
 			<value>false</value>
 		</switch>
 	</tile>
-
+	<tile> 
+		<name>Filler Top Left</name>
+		<id>32</id>
+		<texture>32</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Top Right</name>
+		<id>31</id>
+		<texture>31</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Bottom Left</name>
+		<id>30</id>
+		<texture>30</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Bottom Right</name>
+		<id>29</id>
+		<texture>29</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Top Left / Top Right</name>
+		<id>49</id>
+		<texture>49</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Top Right / Bottom Right</name>
+		<id>50</id>
+		<texture>50</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Bottom Left / Bottom Right</name>
+		<id>51</id>
+		<texture>51</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Filler Top Left / Bottom Left</name>
+		<id>52</id>
+		<texture>52</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
+	<tile> 
+		<name>Worm Hole</name>
+		<id>73</id>
+		<texture>73</texture>
+		<exit>false</exit>
+		<gate>
+			<active>0</active>
+			<value>false</value>
+		</gate>
+		<switch>
+			<value>false</value>
+		</switch>
+	</tile>
 	<tile> 
 		<name>Blank Wall (Do not use)</name>
 		<id>1</id>

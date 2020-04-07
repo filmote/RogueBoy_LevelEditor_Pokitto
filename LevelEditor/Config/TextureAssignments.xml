@@ -365,5 +365,10 @@
 		<filepath>Textures/Tile_72.png</filepath>
 		<transparent r = "0" g = "0" b = "0" a = "255"></transparent>
 	</texture>
+	<texture>
+		<id>73</id>
+		<filepath>Textures/Tile_73.png</filepath>
+		<transparent r = "0" g = "0" b = "0" a = "255"></transparent>
+	</texture>
 
 </textures>
