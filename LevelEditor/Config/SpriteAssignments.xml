@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <sprites>
 	<sprite> 
-		<name>coin</name>
+		<name>Coin</name>
 		<id>0</id>
 		<texture>coin</texture>
+	</sprite>
+	<sprite> 
+		<name>Sack of Cash</name>
+		<id>1</id>
+		<texture>sackofcash</texture>
+	</sprite>
+	<sprite> 
+		<name>Donut</name>
+		<id>2</id>
+		<texture>donut</texture>
+	</sprite>
+	<sprite> 
+		<name>Key</name>
+		<id>3</id>
+		<texture>key</texture>
+	</sprite>
+	<sprite> 
+		<name>Ham</name>
+		<id>4</id>
+		<texture>ham</texture>
+	</sprite>
+	<sprite> 
+		<name>Floater</name>
+		<id>5</id>
+		<texture>floater</texture>
+	</sprite>
+	<sprite> 
+		<name>Skull</name>
+		<id>6</id>
+		<texture>skull</texture>
+	</sprite>
+	<sprite> 
+		<name>Spider</name>
+		<id>7</id>
+		<texture>spider</texture>
+	</sprite>
+	<sprite> 
+		<name>Bat</name>
+		<id>8</id>
+		<texture>bat</texture>
+	</sprite>
+	<sprite> 
+		<name>Tools</name>
+		<id>9</id>
+		<texture>tools</texture>
+	</sprite>
+	<sprite> 
+		<name>Potion</name>
+		<id>10</id>
+		<texture>potion</texture>
+	</sprite>
+	<sprite> 
+		<name>Large Spider</name>
+		<id>11</id>
+		<texture>largespider</texture>
 	</sprite>
 </sprites>
