@@ -3,6 +3,6 @@
 	<sprite> 
 		<name>coin</name>
 		<id>0</id>
-		<texture>coin</texture>
+		<texture>0</texture>
 	</sprite>
 </sprites>
