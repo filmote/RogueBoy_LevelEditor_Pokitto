@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<sprites>	<sprites>
-	<sprite> 		<sprite> 
-		<name>coin</name>			<name>Coin</name>
-		<id>0</id>			<id>0</id>
-		<texture>coin</texture>			<texture>coin</texture>
-	</sprite>		</sprite>
-</sprites> 		<sprite> 
+<sprites>
+	<sprite> 
+		<name>coin</name>
+		<id>0</id>
+		<texture>coin</texture>	
+	</sprite>		
+	<sprite> 
 		<name>Sack of Cash</name>
 		<id>1</id>
 		<texture>sackofcash</texture>
