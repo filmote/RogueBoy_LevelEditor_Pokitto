@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <sprites>
 	<sprite> 
-		<name>coin</name>
+		<name>Coin</name>
 		<id>0</id>
 		<texture>coin</texture>	
 	</sprite>		
@@ -11,9 +11,9 @@
 		<texture>sackofcash</texture>
 	</sprite>
 	<sprite> 
-		<name>Donut</name>
+		<name>Bread</name>
 		<id>2</id>
-		<texture>donut</texture>
+		<texture>bread</texture>
 	</sprite>
 	<sprite> 
 		<name>Key</name>
@@ -21,9 +21,9 @@
 		<texture>key</texture>
 	</sprite>
 	<sprite> 
-		<name>Ham</name>
+		<name>Chicken</name>
 		<id>4</id>
-		<texture>ham</texture>
+		<texture>chicken</texture>
 	</sprite>
 	<sprite> 
 		<name>Floater</name>
@@ -60,4 +60,21 @@
 		<id>11</id>
 		<texture>largespider</texture>
 	</sprite>
+	<sprite> 
+		<name>Green Spell</name>
+		<id>13</id>
+		<texture>greenspell</texture>
+	</sprite>
+	<sprite> 
+		<name>Yellow Spell</name>
+		<id>14</id>
+		<texture>yellowspell</texture>
+	</sprite>
+	<sprite> 
+		<name>Mauve Spell</name>
+		<id>15</id>
+		<texture>mauvespell</texture>
+	</sprite>
+
+	
 </sprites>

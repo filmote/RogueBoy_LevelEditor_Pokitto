@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <textures>
+
 	<texture>
         <id>0</id>
         <filepath>Textures/Tile_00.png</filepath>
@@ -437,4 +438,83 @@
         <filepath>Textures/Tile_72.png</filepath>
         <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
     </texture>
+	
+    <texture>
+        <id>coin</id>
+        <filepath>Textures/Coin.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+	
+    <texture>
+        <id>sackofcash</id>
+        <filepath>Textures/SackOCash.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+
+    <texture>
+        <id>bread</id>
+        <filepath>Textures/Bread.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>key</id>
+        <filepath>Textures/Key.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>chicken</id>
+        <filepath>Textures/Chicken.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>floater</id>
+        <filepath>Textures/Floater.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>skull</id>
+        <filepath>Textures/Skull.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>spider</id>
+        <filepath>Textures/Spider.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>bat</id>
+        <filepath>Textures/Bat.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>tools</id>
+        <filepath>Textures/Tools.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>potion</id>
+        <filepath>Textures/Potion.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>largespider</id>
+        <filepath>Textures/LargeSpider.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>greenspell</id>
+        <filepath>Textures/GreenSpell.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>yellowspell</id>
+        <filepath>Textures/YellowSpell.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+    <texture>
+        <id>mauvespell</id>
+        <filepath>Textures/MauveSpell.png</filepath>
+        <transparent r = "255" g = "119" b = "168" a = "0"></transparent>
+    </texture>
+	
 </textures>
